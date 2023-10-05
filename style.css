@@ -1,0 +1,26 @@
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            text-align: left;
+        }
+        h1 {
+            color: #333;
+        }
+        #tribute-container {
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+            padding: 20px;
+            margin: 20px;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        #image {
+            max-width: device-width;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+    </style>
